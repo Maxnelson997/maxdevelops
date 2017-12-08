@@ -1,0 +1,2 @@
+class AngularappController < ApplicationController
+end
